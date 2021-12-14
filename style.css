@@ -2,5 +2,5 @@ body,html{
     color:red;
 }
 .button{
-    background-color: blue;color: #fff;
+    background-color: blue;color: #fff;border: 1px solid red;
 }
